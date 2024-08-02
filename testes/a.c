@@ -1,9 +1,9 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main(){
+int main()
+{
 
-    printf("Testando vscode");
-
+    printf("TESTE");
 
     return 0;
 }
